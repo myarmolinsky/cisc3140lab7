@@ -1,4 +1,4 @@
-#README
+# README
 This makefile flips an image vertically and horizontally and negates it using imagemagick.  In order to test this program, have an image in the same directory as the makefile called `image1` with the file extension `.jpg`.
 
 ## Commands
